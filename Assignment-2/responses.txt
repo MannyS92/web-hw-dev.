@@ -1,0 +1,20 @@
+# Responses for Assignment 2
+
+
+* Briefly describe one way how data travels on the internet.
+
+Data travels on the internet through Binary code and can be sent by radio waves, electricity in cables or light through fiber optic cables.
+
+
+* What is the relationship between IP address and the DNS?
+
+Each device and website has its own unique IP address, but since humans would have a hard time finding each website by its IP Address, we use the DNS to find it by its name that weve given it, like [www.google.com](www.google.com).
+
+
+ * What is a cookie?
+
+A cookie is a piece of data sent from a website to your computer so it can remember  information about you while youre on that website.
+
+ *  List the the three basic parts of a URL.
+
+The three basic parts of a url are its protocol, domain name, and its path.
