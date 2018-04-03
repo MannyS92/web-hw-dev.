@@ -9,3 +9,4 @@ The ideas and format of html is easy but I just found the amount of different th
 Im very excited to start learning CSS and to start styling my webpages. As Ive googled html stuff, Ive run into many CSS things and Ive even attempted to learn some of it, but I dont really know it and Im excited to get into it.
 
 I started this Project a couple weeks ago. I started by brainstorming and coming up with my idea and then I slowly worked on it piece by piece. I started on my index and worked on it over a couple days then used a day each to work on the other two pages. I was extremely overwhelmed at first but as I worked on it just a little bit at a time, it all came together and was fun.
+![Screenshot](./images/screenshot.png)
