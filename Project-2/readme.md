@@ -1,10 +1,10 @@
 # Project-2 readme
 
-When we started html I know absolutely nothing about it.
+When we started html I knew absolutely nothing about it.
 My only other experience with html was 10 years ago adjusting things on my MySpace account, so this was basically brand ne to me.
 What I found difficult was just remembering so many different types of things you could do with it or the syntax for so many things.
 
-The ideas and format of html is easy but I just found the amount of different things to be a little overwhelming. I had to google how to do things many times but each time Im getting better so thats good.
+The ideas and format of html is easy but I just found the amount of different things to be done a little overwhelming. I had to google how to do things many times but each time Im getting better so thats good.
 
 Im very excited to start learning CSS and to start styling my webpages. As Ive googled html stuff, Ive run into many CSS things and Ive even attempted to learn some of it, but I dont really know it and Im excited to get into it.
 
