@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+.main-title {
+    font-size: 30px;
+  position: relative;
+  left: 750px;
+}
+
+
+
+.woman{
+  width: 500px;
+  height: auto;
+  position: relative;
+  left: 400px;
+  top: -150px;
+
+}
+
+
+.filter-queen {
+  color: white;
+   background-color: #26272b;
+   display: inline-block;
+  position: absolute;
+  top: 400px;
+  left: 800px;
+
+}
+
+.subs {
+  position: absolute;
+ right: 0px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.mail-order {
+    border: 2px dashed ;
+}
